@@ -4,14 +4,14 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/license/jankarikiduniya/RocksMusicPlayer?style=for-the-badge" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/jankarikiduniya/RocksMusicPlayer?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/jankarikiduniya/RocksMusicPlayer?style=for-the-badge" alt="Repository Size"> <br>
-    <img src="https://img.shields.io/github/forks/jankarikiduniya/RocksMusicPlayer?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/stars/jankarikiduniya/RocksMusicPlayer?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/watchers/jankarikiduniya/RocksMusicPlayer?style=for-the-badge" alt="Watchers">
-    <img src="https://img.shields.io/github/commit-activity/w/jankarikiduniya/RocksMusicPlayer?style=for-the-badge" alt="Commit Activity">
-    <img src="https://img.shields.io/github/issues/jankarikiduniya/RocksMusicPlayer?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/license/Adarshtiwari1305/vc?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/contributors/Adarshtiwari1305/vc?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/Adarshtiwari1305/vc?style=for-the-badge" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/forks/Adarshtiwari1305/vc?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/stars/Adarshtiwari1305/vc?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/watched/Adarshtiwari1305/vc?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/commit-activity/w/Adarshtiwari1305/vc?style=for-the-badge" alt="Commit Activity">
+    <img src="https://img.shields.io/github/issues/Adarshtiwari1305/vc?style=for-the-badge" alt="Issues">
 </p>
 
 ## ✨ <a name="features"></a>Features
@@ -55,7 +55,7 @@ thanks to the translators.
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jankarikiduniya/RocksMusicPlayer-V1)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/vc)
 
 ## ☁️ <a name="self_host"></a>Self Host
 
@@ -127,4 +127,4 @@ en    English
 - [Asad Ali](https://t.me/Dr_Asad_Ali): Dev Chutiya
 - [Harshit](https://t.me/HarshitSharma361): Support Bhai Ki Jan ❤️
 ### Support & Updates ❤️❤️
-<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Aadriti_fed"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
